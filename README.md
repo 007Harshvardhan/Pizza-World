@@ -40,7 +40,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/pizza-ordering-app.git
+git clone https://github.com/007Harshvardhan/Pizza-World/tree/main
 cd pizza-ordering-app
 Install the dependencies:
 
